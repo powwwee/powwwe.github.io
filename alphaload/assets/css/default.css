@@ -1,0 +1,108 @@
+.progress {
+	background-color: transparent !important;
+	-webkit-box-shadow: 0 0 6px rgba(255,255,255,0) !important;
+    box-shadow:  0 063px rgba(255,255,255,0) !important;
+}
+.progress-bar {
+	-webkit-box-shadow: 0 0 6px rgba(255,255,255,1) !important;
+    box-shadow:  0 0 6px rgba(255,255,255,1) !important;
+    color: #000 !important;
+    background-color: #fff !important;
+}
+hr.laser {
+	background-image: -webkit-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.75), rgba(255,255,255,0));
+    background-image:    -moz-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.75), rgba(255,255,255,0));
+    background-image:     -ms-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.75), rgba(255,255,255,0));
+    background-image:      -o-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.75), rgba(255,255,255,0));
+}
+.number {
+	text-shadow: 0 0 3px rgb(255,255,255);
+}
+span {
+    color: rgb(0,255,255);
+}
+
+#statuschanger {
+    color: #fff;
+}
+.eyedee {
+	color: #fff;
+}
+.username {
+	color: #fff;
+}
+.rulesTitle {
+	color: #fff;
+}
+.rule {
+    color: #fff;
+}
+.topTitle {
+	color: #fff;
+}
+.gamemodeText {
+	background-color:rgba(0,0,0,0.5);
+	border-bottom: 1px solid white;
+}
+.mapText {
+	background-color:rgba(0,0,0,0.5);
+	border-top: 1px solid white;
+}
+.aboutText {
+    color:#fff;
+}
+.serverTitle {
+	color: #fff
+}
+.smallCenter {
+	background-color: rgba(0,0,0,0.6);
+}
+.downloadbox {
+	background-color:rgba(0,0,0,0.6);
+    border:1px solid #fff;
+    box-shadow: 0 0 6px #fff;
+}
+.insideGlow {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #fff;
+}
+.left-box {
+	background-color:rgba(0,0,0,0.6);
+    border:1px solid #fff;
+    box-shadow: 0 0 6px #fff;
+}
+.insideglow5 {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #fff;
+}
+.mid-box {
+	background-color:rgba(0,0,0,0.6);
+    border:1px solid #fff;
+    box-shadow: 0 0 6px #fff;
+}
+.insideglow2 {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #fff;
+}
+.right-box-top {
+	border:1px solid #fff;
+    box-shadow: 0 0 6px #fff;
+}
+.insideglow3 {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #fff;
+}
+.right-box-bottom {
+	background-color:rgba(0,0,0,0.6);
+    border:1px solid #fff;
+    box-shadow: 0 0 6px #fff;
+}
+.title .titleText {
+	background-color:rgba(0,0,0,0.5);
+    color:#fff;
+	border-top: 1px solid white;
+}
+.insideglow4 {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #fff;
+}

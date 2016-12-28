@@ -1,0 +1,110 @@
+.progress {
+	background-color: transparent !important;
+	-webkit-box-shadow: 0 0 6px rgba(0,255,12,0) !important;
+    box-shadow:  0 063px rgba(0,255,12,0) !important;
+}
+.progress-bar {
+	-webkit-box-shadow: 0 0 6px rgba(0,255,12,1) !important;
+    box-shadow:  0 0 6px rgba(0,255,12,1) !important;
+    color: #000 !important;
+    background-color: rgba(0,255,12,1) !important;
+}
+hr.laser {
+	background-image: -webkit-linear-gradient(left, rgba(0,255,12,0), rgba(0,255,12,0.75), rgba(0,255,12,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,255,12,0), rgba(0,255,12,0.75), rgba(0,255,12,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,255,12,0), rgba(0,255,12,0.75), rgba(0,255,12,0));
+    background-image:      -o-linear-gradient(left, rgba(0,255,12,0), rgba(0,255,12,0.75), rgba(0,255,12,0));
+}
+.number {
+	text-shadow: 0 0 3px rgb(0,255,12);
+    color: #00ff0c;
+}
+span {
+    color: #00ff0c;
+}
+
+#statuschanger p {
+    color: #00ff0c !important;
+}
+.eyedee {
+	color: #00ff0c;
+}
+.username {
+	color: #00ff0c;
+}
+.rulesTitle {
+	color: #00ff0c;
+}
+.rule {
+    color:#00ff0c
+}
+.topTitle {
+    color:#00ff0c;
+    -webkit-text-stroke: 1px black;
+}
+.gamemodeText {
+	background-color:rgba(0,0,0,0.5);
+	border-bottom: 1px solid #00ff0c;
+}
+.mapText {
+	background-color:rgba(0,0,0,0.5);
+	border-top: 1px solid #00ff0c;
+}
+.aboutText {
+    color: #00d607
+}
+.serverTitle {
+	color: #00ff0c
+}
+.smallCenter {
+	background-color: rgba(0,0,0,0.6);
+}
+.downloadbox {
+	background-color:rgba(0,0,0,0.6);
+    border:1px solid #00ff0c;
+    box-shadow: 0 0 6px #00ff0c;
+}
+.insideGlow {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #00ff0c;
+}
+.left-box {
+	background-color:rgba(0,0,0,0.6);
+    border:1px solid #00ff0c;
+    box-shadow: 0 0 6px #00ff0c;
+}
+.insideglow5 {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #00ff0c;
+}
+.mid-box {
+	background-color:rgba(0,0,0,0.6);
+    border:1px solid #00ff0c;
+    box-shadow: 0 0 6px #00ff0c;
+}
+.insideglow2 {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #00ff0c;
+}
+.right-box-top {
+	border:1px solid #00ff0c;
+    box-shadow: 0 0 6px #00ff0c;
+}
+.insideglow3 {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #00ff0c;
+}
+.right-box-bottom {
+	background-color:rgba(0,0,0,0.6);
+    border:1px solid #00ff0c;
+    box-shadow: 0 0 6px #00ff0c;
+}
+.title .titleText {
+	background-color:rgba(0,0,0,0.5);
+    color:#00ff0c;
+	border-top: 1px solid #00ff0c;
+}
+.insideglow4 {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #00ff0c;
+}

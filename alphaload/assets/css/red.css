@@ -1,0 +1,112 @@
+.progress {
+	background-color: transparent !important;
+	-webkit-box-shadow: 0 0 6px rgba(255,0,0,0) !important;
+    box-shadow:  0 063px rgba(255,0,0,0) !important;
+}
+.progress-bar {
+	-webkit-box-shadow: 0 0 6px rgba(255,0,0,1) !important;
+    box-shadow:  0 0 6px rgba(255,0,0,1) !important;
+    color: #ff0000 !important;
+    background-color: #ff0000 !important;
+}
+hr.laser {
+	background-image: -webkit-linear-gradient(left, rgba(255,0,0,0), rgba(255,0,0,0.75), rgba(255,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(255,0,0,0), rgba(255,0,0,0.75), rgba(255,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(255,0,0,0), rgba(255,0,0,0.75), rgba(255,0,0,0));
+    background-image:      -o-linear-gradient(left, rgba(255,0,0,0), rgba(255,0,0,0.75), rgba(255,0,0,0));
+}
+.number {
+	text-shadow: 0 0 3px #ff0000;
+    color:#ff0000;
+}
+span {
+    color: #ff0000;
+}
+
+#statuschanger {
+    color: #ff0000;
+}
+.eyedee {
+	color: #ff0000;
+}
+.username {
+	color: #ff0000;
+}
+.rulesTitle {
+	color: #fff;
+}
+.rule {
+    color: #fff;
+}
+.topTitle {
+	color: #ff0000;
+    -webkit-text-stroke: 1px black;
+}
+.gamemodeText {
+	background-color:rgba(0,0,0,0.5);
+    color:#fff;
+	border-bottom: 1px solid #ff0000;
+}
+.mapText {
+	background-color:rgba(0,0,0,0.5);
+    color:#fff;
+	border-top: 1px solid #ff0000;
+}
+.aboutText {
+    color:#fff;
+}
+.serverTitle {
+	color: #fff
+}
+.smallCenter {
+	background-color: rgba(255,0,0,0.6);
+}
+.downloadbox {
+	background-color:rgba(0,0,0,0.6);
+    border:1px solid #ff0000;
+    box-shadow: 0 0 6px #ff0000;
+}
+.insideGlow {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #ff0000;
+}
+.left-box {
+	background-color:rgba(0,0,0,0.6);
+    border:1px solid #ff0000;
+    box-shadow: 0 0 6px #ff0000;
+}
+.insideglow5 {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #ff0000;
+}
+.mid-box {
+	background-color:rgba(0,0,0,0.6);
+    border:1px solid #ff0000;
+    box-shadow: 0 0 6px #ff0000;
+}
+.insideglow2 {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #ff0000;
+}
+.right-box-top {
+	border:1px solid #ff0000;
+    box-shadow: 0 0 6px #ff0000;
+}
+.insideglow3 {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #ff0000;
+}
+.right-box-bottom {
+	background-color:rgba(0,0,0,0.6);
+    border:1px solid #ff0000;
+    box-shadow: 0 0 6px #ff0000;
+}
+.title .titleText {
+	background-color:rgba(0,0,0,0.5);
+    color:#fff;
+	border-top: 1px solid #ff0000;
+}
+.insideglow4 {
+	background-color:transparent;
+    box-shadow: inset 0 0 6px #ff0000;
+}
